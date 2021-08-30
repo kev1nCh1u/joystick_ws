@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+
+
+<node pkg="JoyStick" name="joystick" type="joystick" args="/dev/input/js0"/>
+
+
+</launch>

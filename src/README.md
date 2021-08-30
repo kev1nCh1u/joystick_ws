@@ -1,0 +1,1 @@
+rosrun JoyStick joystick /dev/input/js0

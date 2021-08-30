@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp"
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/user/joy_con_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        "/opt/ros/dashing/lib/python3.6/site-packages"
+    ]
+}
